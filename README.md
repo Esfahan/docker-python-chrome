@@ -2,9 +2,11 @@
 Python with headless chrome on CentOS7(Docker)
 
 - chromedriver_linux64 2.43
-- google-chrome-stable
+- google-chrome-stable 70.0.3538.77
 - Python 3.7.1
 
+## DockerHub
+- https://hub.docker.com/r/esfahan/python-chrome
 
 ## docker build
 
