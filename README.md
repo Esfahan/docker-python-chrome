@@ -8,6 +8,9 @@ Python with headless chrome on CentOS7(Docker)
 ## DockerHub
 - https://hub.docker.com/r/esfahan/python-chrome
 
+## Related
+- https://github.com/Esfahan/docker-go-chrome
+
 ## docker build
 
 ```
